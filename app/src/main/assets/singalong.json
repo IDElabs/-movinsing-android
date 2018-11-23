@@ -1,0 +1,43 @@
+[
+  {
+    "title":"Lagu Senandung Cinta",
+    "provider":"youtube",
+    "image":"https://source.unsplash.com/720x480/?cinta",
+    "arguments":[
+      "PLb9BuC8eVPLX_xno88Bwmnyzs8Y5KxxN2", "playlist"
+    ]
+  },
+  {
+    "title":"Dangdut Terbaik 2018",
+    "provider":"youtube",
+    "image":"https://source.unsplash.com/720x480/?dance",
+    "arguments":[
+      "PLb9BuC8eVPLW2gm_DTdKyG1ZiuNpW_9nN", "playlist"
+    ]
+  },
+  {
+    "title":"Lagu Anak-Anak Terbaru",
+    "provider":"youtube",
+    "image":"https://source.unsplash.com/720x480/?children",
+    "arguments":[
+      "PLb9BuC8eVPLV_NmT8z0s0-O-kQf5i9lou", "playlist"
+    ]
+  },
+  {
+    "title":"Lagu Western Terbaru",
+    "provider":"youtube",
+    "image":"https://source.unsplash.com/720x480/?jakarta,concert",
+    "arguments":[
+      "UCCkNhAWgRwlGgENwKg9twUg", "channel"
+    ]
+  },
+  {
+    "title":"Hot Trailers",
+    "provider":"youtube",
+    "image":"https://source.unsplash.com/720x480/?jakarta",
+    "arguments":[
+      "UChvdpkJqIaVo7kbKPtmKXhA", "channel"
+    ]
+  }
+
+]
