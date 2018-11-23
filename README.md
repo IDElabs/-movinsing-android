@@ -1,4 +1,4 @@
-![Image of IDElabs](/images/IDElabs-logo.png)
+![Image of IDElabs](https://raw.githubusercontent.com/IDElabs/IDElabs-android-template-private/master/images/IDElabs-logo.png?token=Ab0NkIA2hDJXboXbJ1ehIzRSyd8iM8zDks5cAXE6wA%3D%3D)
 
 # movinsing-android
 
